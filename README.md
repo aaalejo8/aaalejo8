@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Alejo%20Almada&fontSize=52&fontColor=d4b07a&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Explorando%20IA%20y%20Automatizaci%C3%B3n&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://raw.githubusercontent.com/aaalejo8/aaalejo8/main/ChatGPT%20Image%204%20sept%202026%2C%2019_05_41.png" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mi-portfolio-eosin-nu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejo-almada-8827b4355)
