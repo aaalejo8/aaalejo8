@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Alejo%20Almada&fontSize=52&fontColor=d4b07a&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Explorando%20IA%20%26%20Automatizaci%C3%B3n&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Alejo%20Almada&fontSize=52&fontColor=d4b07a&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Explorando%20IA%20y%20Automatizaci%C3%B3n&descAlignY=58&descAlign=50" width="100%"/>
 
 <!--
 ✏️ TODO Alejo: sumá tus links reales acá (LinkedIn, Instagram, portfolio deployado) y descomentá/editá el bloque.
@@ -10,7 +10,7 @@ Ejemplo:
 -->
 
 ![Salta, Argentina](https://img.shields.io/badge/📍-Salta,_Argentina-1e293b?style=for-the-badge)
-![Status](https://img.shields.io/badge/🚀-Building_%26_Learning-1e293b?style=for-the-badge)
+![Status](https://img.shields.io/badge/🚀-Building_and_Learning-1e293b?style=for-the-badge)
 
 </div>
 
