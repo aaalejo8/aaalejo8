@@ -2,12 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Alejo%20Almada&fontSize=52&fontColor=d4b07a&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Explorando%20IA%20y%20Automatizaci%C3%B3n&descAlignY=58&descAlign=50" width="100%"/>
 
-<!--
-✏️ TODO Alejo: sumá tus links reales acá (LinkedIn, Instagram, portfolio deployado) y descomentá/editá el bloque.
-Ejemplo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.vercel.app)
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mi-portfolio-eosin-nu.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejo-almada-8827b4355)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejoalmada17@gmail.com)
 
 ![Salta, Argentina](https://img.shields.io/badge/📍-Salta,_Argentina-1e293b?style=for-the-badge)
 ![Status](https://img.shields.io/badge/🚀-Building_and_Learning-1e293b?style=for-the-badge)
@@ -71,6 +68,8 @@ Mi portfolio personal, en desarrollo activo — construido con Next.js, iterando
 
 `Next.js` `TypeScript` `AI-assisted dev`
 
+🔗 [Ver demo en vivo](https://mi-portfolio-eosin-nu.vercel.app/)
+
 </td>
 </tr>
 <tr>
@@ -110,8 +109,9 @@ Trabajos prácticos y parciales de la facultad — ejercicios de lógica, estruc
 
 ### 💬 Charlemos de código, productos o IA
 
-<!-- ✏️ TODO Alejo: reemplazá con tus contactos reales -->
-📫 **aaalejo8** en GitHub — abierto a colaborar en proyectos reales y de aprendizaje.
+📫 [alejoalmada17@gmail.com](mailto:alejoalmada17@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alejo-almada-8827b4355) · [Portfolio](https://mi-portfolio-eosin-nu.vercel.app/)
+
+Abierto a colaborar en proyectos reales y de aprendizaje.
 
 </div>
 
