@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/aaalejo8/aaalejo8/main/ChatGPT%20Image%204%20sept%202026%2C%2019_05_41.png" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mi-portfolio-eosin-nu.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejo-almada-8827b4355)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejoalmada17@gmail.com)
+[<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/>](https://mi-portfolio-eosin-nu.vercel.app/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>](https://www.linkedin.com/in/alejo-almada-8827b4355)&nbsp;
+[<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>](mailto:alejoalmada17@gmail.com)
 
 ![Salta, Argentina](https://img.shields.io/badge/📍-Salta,_Argentina-1e293b?style=for-the-badge)
 ![Status](https://img.shields.io/badge/🚀-Building_and_Learning-1e293b?style=for-the-badge)
@@ -29,7 +29,7 @@ También me interesa el producto más allá del código: automatización, conten
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,vite,supabase,postgres,git,github,py&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,nestjs,graphql,apollo,supabase,postgres,git,github,npm,py&theme=dark&perline=9" /><img src="https://img.shields.io/badge/-1e293b?style=flat-square&logo=reactrouter&logoColor=white" height="48" alt="React Router"/><img src="https://img.shields.io/badge/-1e293b?style=flat-square&logo=typeorm&logoColor=white" height="48" alt="TypeORM"/>
 
 <br><br>
 
