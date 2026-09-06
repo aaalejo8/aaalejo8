@@ -29,7 +29,9 @@ También me interesa el producto más allá del código: automatización, conten
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,nestjs,graphql,apollo,supabase,postgres,git,github,npm,py&theme=dark&perline=9" /><img src="https://raw.githubusercontent.com/aaalejo8/aaalejo8/main/reactrouter.svg" width="48" height="48" alt="React Router" title="React Router"/><img src="https://raw.githubusercontent.com/aaalejo8/aaalejo8/main/typeorm.svg" width="48" height="48" alt="TypeORM" title="TypeORM"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,nestjs&theme=dark&perline=10" />
+<br>
+<img src="https://skillicons.dev/icons?i=graphql,apollo,supabase,postgres,git,github,npm,py&theme=dark&perline=8" />&nbsp;<img src="https://raw.githubusercontent.com/aaalejo8/aaalejo8/main/reactrouter.svg" width="48" height="48" alt="React Router" title="React Router"/>&nbsp;<img src="https://raw.githubusercontent.com/aaalejo8/aaalejo8/main/typeorm.svg" width="48" height="48" alt="TypeORM" title="TypeORM"/>
 
 <br><br>
 
