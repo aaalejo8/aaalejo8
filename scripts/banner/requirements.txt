@@ -1,0 +1,5 @@
+numpy>=1.26
+scipy>=1.11
+Pillow>=10.0
+fonttools>=4.40
+opencv-python-headless>=4.8  # only for clean_background.py
