@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aaalejo8/aaalejo8/main/ChatGPT%20Image%204%20sept%202026%2C%2019_05_41.png" width="100%"/>
+<img src="assets/animated/banner.svg" width="100%" alt="Alejo Almada — Full Stack Developer | Explorando IA y Automatización"/>
 
-[<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/>](https://mi-portfolio-eosin-nu.vercel.app/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>](https://www.linkedin.com/in/alejo-almada-8827b4355)&nbsp;
-[<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>](mailto:alejoalmada17@gmail.com)
+<a href="https://mi-portfolio-eosin-nu.vercel.app/" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/animated/link-portfolio-dark.svg"/><img src="assets/animated/link-portfolio-light.svg" width="100" alt="Portfolio"/></picture></a><a href="https://www.linkedin.com/in/alejo-almada-8827b4355" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/animated/link-linkedin-dark.svg"/><img src="assets/animated/link-linkedin-light.svg" width="100" alt="LinkedIn"/></picture></a><a href="mailto:alejoalmada17@gmail.com" title="Gmail"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/animated/link-gmail-dark.svg"/><img src="assets/animated/link-gmail-light.svg" width="100" alt="Gmail"/></picture></a>
 
 ![Salta, Argentina](https://img.shields.io/badge/📍-Salta,_Argentina-1e293b?style=for-the-badge)
 ![Status](https://img.shields.io/badge/🚀-Building_and_Learning-1e293b?style=for-the-badge)
